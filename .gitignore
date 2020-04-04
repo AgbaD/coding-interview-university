@@ -7,6 +7,7 @@ personal-9894.md
 *~
 
 # OS generated files #
+temp_auto_push.bat
 ######################
 .DS_Store
 .DS_Store?
@@ -16,3 +17,5 @@ personal-9894.md
 ehthumbs.db
 Thumbs.db
 
+.gitignore
+temp_interactive_push.bat
